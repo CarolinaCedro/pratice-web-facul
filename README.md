@@ -1,4 +1,4 @@
-## Você pode visualizar o site aqui -> <a href="https://pratice-web-facul.vercel.app/#">Projeto facauldade-web</a>
+## Você pode visualizar o site aqui -> <a href="https://pratice-web-facul.vercel.app/#">Projeto faculdade-web</a>
 
 ![img.png](img.png)
 
